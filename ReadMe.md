@@ -27,3 +27,11 @@ View Rendered: [Eevee](docs/renders/eevee/Forts.png) or [Cycles](docs/renders/cy
 View Rendered: [Eevee](docs/renders/eevee/Cylinders.png) or [Cycles](docs/renders/cycles/Cylinders.png)
 
 ---
+
+## Advanced Cylinders
+
+![AdvancedCylinders](docs/img/AdvancedCylinders.png)
+
+View Rendered: [Eevee](docs/renders/eevee/AdvancedCylinders.png) or [Cycles](docs/renders/cycles/AdvancedCylinders.png)
+
+---
