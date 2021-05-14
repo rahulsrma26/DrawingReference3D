@@ -4,42 +4,53 @@ A repository containing simple 3d objects in blender for drawing practice.
 
 ---
 
-## [Stacked Boxes](https://github.com/rahulsrma26/DrawingReference3D/raw/main/StackedBoxes.blend)
+<h2>
+<a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/StackedBoxes.blend" download>Stacked Boxes</a>
+</h2>
 
 ![StackedBoxes](docs/img/StackedBoxes.png)
 
-View Rendered: [Eevee](https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/StackedBoxes.png) or [Cycles](https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/StackedBoxes.png)
+View Rendered: 
+<a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/StackedBoxes.png" target="_blank">Eevee</a> or <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/StackedBoxes.png">Cycles</a>
 
 ---
 
-## [Forts](https://github.com/rahulsrma26/DrawingReference3D/raw/main/Forts.blend)
+<h2>
+<a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/Forts.blend" download>Forts</a>
+</h2>
 
 ![Forts](docs/img/Forts.png)
 
-View Rendered: [Eevee](https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/Forts.png) or [Cycles](https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/Forts.png)
+View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/Forts.png" target="_blank">Eevee</a> or <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/Forts.png" target="_blank">Cycles</a>
 
 ---
 
-## [Cylinders](https://github.com/rahulsrma26/DrawingReference3D/raw/main/Cylinders.blend)
+<h2>
+<a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/Cylinders.blend" download>Cylinders</a>
+</h2>
 
 ![Cylinders](docs/img/Cylinders.png)
 
-View Rendered: [Eevee](https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/Cylinders.png) or [Cycles](https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/Cylinders.png)
+View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/Cylinders.png" target="_blank">Eevee</a> or <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/Cylinders.png" target="_blank">Cycles</a>
 
 ---
 
-## [Advanced Cylinders](https://github.com/rahulsrma26/DrawingReference3D/raw/main/AdvancedCylinders.blend)
+<h2>
+<a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/AdvancedCylinders.blend" download>Advanced Cylinders</a>
+</h2>
 
 ![AdvancedCylinders](docs/img/AdvancedCylinders.png)
 
-View Rendered: [Eevee](https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/AdvancedCylinders.png) or [Cycles](https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/AdvancedCylinders.png)
+View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/AdvancedCylinders.png" target="_blank">Eevee</a> or <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/AdvancedCylinders.png" target="_blank">Cycles</a>
 
 ---
 
-## [House](https://github.com/rahulsrma26/DrawingReference3D/raw/main/House.blend)
+<h2>
+<a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/House.blend" download>House</a>
+</h2>
 
 ![House](docs/img/House.png)
 
-View Rendered: [Eevee](https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/House.png) or [Cycles](https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/House.png)
+View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/House.png" target="_blank">Eevee</a> or <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/House.png" target="_blank">Cycles</a>
 
 ---
