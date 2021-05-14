@@ -35,3 +35,11 @@ View Rendered: [Eevee](docs/renders/eevee/Cylinders.png) or [Cycles](docs/render
 View Rendered: [Eevee](docs/renders/eevee/AdvancedCylinders.png) or [Cycles](docs/renders/cycles/AdvancedCylinders.png)
 
 ---
+
+## House
+
+![House](docs/img/House.png)
+
+View Rendered: [Eevee](docs/renders/eevee/House.png) or [Cycles](docs/renders/cycles/House.png)
+
+---
