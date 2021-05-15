@@ -54,3 +54,13 @@ View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/ma
 View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/House.png" target="_blank">Eevee</a> or <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/House.png" target="_blank">Cycles</a>
 
 ---
+
+<h2>
+<a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/BigHouse.blend" download>Big House</a>
+</h2>
+
+![BigHouse](docs/img/BigHouse.png)
+
+View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/BigHouse.png" target="_blank">Eevee</a> or <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/BigHouse.png" target="_blank">Cycles</a>
+
+---
