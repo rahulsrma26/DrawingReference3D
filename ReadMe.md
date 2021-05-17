@@ -1,6 +1,8 @@
 # Drawing Reference 3d
 
-A repository containing simple 3d objects in blender for drawing practice.
+A repository containing simple 3d objects in blender. The aim to create free models with only basic shapes like sphere, cube, cylinders etc. for drawing practice.
+
+User can play with light and camera to create desired composition.
 
 ---
 
