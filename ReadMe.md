@@ -1,6 +1,8 @@
 # Drawing Reference 3d
 
-A repository containing simple 3d objects in blender for drawing practice.
+A repository containing simple 3d objects in blender. The aim to create free models with only basic shapes like sphere, cube, cylinders etc. for drawing practice.
+
+User can play with light and camera to create desired composition.
 
 ---
 
@@ -64,6 +66,7 @@ View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/ma
 View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/BigHouse.png" target="_blank">Eevee</a> or <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/BigHouse.png" target="_blank">Cycles</a>
 
 ---
+<<<<<<< HEAD
 
 <h2>
 <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/Pyramid.blend" download>Pyramid</a>
@@ -74,3 +77,5 @@ View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/ma
 View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/Pyramid.png" target="_blank">Eevee</a> or <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/Pyramid.png" target="_blank">Cycles</a>
 
 ---
+=======
+>>>>>>> f43c2c234b51290f2e91336a52ddd439264f0d8f
