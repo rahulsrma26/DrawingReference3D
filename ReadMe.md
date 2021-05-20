@@ -64,3 +64,13 @@ View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/ma
 View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/BigHouse.png" target="_blank">Eevee</a> or <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/BigHouse.png" target="_blank">Cycles</a>
 
 ---
+
+<h2>
+<a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/Pyramid.blend" download>Pyramid</a>
+</h2>
+
+![Pyramid](docs/img/Pyramid.png)
+
+View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/Pyramid.png" target="_blank">Eevee</a> or <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/Pyramid.png" target="_blank">Cycles</a>
+
+---
