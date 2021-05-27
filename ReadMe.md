@@ -86,3 +86,13 @@ View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/ma
 View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/Tower.png" target="_blank">Eevee</a> or <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/Tower.png" target="_blank">Cycles</a>
 
 ---
+
+<h2>
+<a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/SpeechDesk.blend" download>Speech Desk</a>
+</h2>
+
+![SpeechDesk](docs/img/SpeechDesk.png)
+
+View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/SpeechDesk.png" target="_blank">Eevee</a> or <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/SpeechDesk.png" target="_blank">Cycles</a>
+
+---
