@@ -76,3 +76,13 @@ View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/ma
 View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/Pyramid.png" target="_blank">Eevee</a> or <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/Pyramid.png" target="_blank">Cycles</a>
 
 ---
+
+<h2>
+<a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/Tower.blend" download>Tower</a>
+</h2>
+
+![Tower](docs/img/Tower.png)
+
+View Rendered: <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/eevee/Tower.png" target="_blank">Eevee</a> or <a href="https://github.com/rahulsrma26/DrawingReference3D/raw/main/docs/renders/cycles/Tower.png" target="_blank">Cycles</a>
+
+---
